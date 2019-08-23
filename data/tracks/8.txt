@@ -1,0 +1,14 @@
+8: Speech Recognition - Architecture, Search & Linguistic Components
+  8.1 Lexical modeling and access: units and models
+  8.2 Automatic lexicon learning
+  8.3 Supervised/unsupervised morphological models
+  8.4 Prosodic features and models for LM
+  8.5 Discriminative training methods for LM  
+  8.6 Language model adaptation (domain, diachronic adaptation)
+  8.7 Language modeling for conversational speech (dialog, interaction)
+  8.8 Search methods, decoding algorithms and implementation; lattices; multipass strategies
+  8.9 New computational strategies, data-structures for ASR
+  8.10 Computational resource constrained speech recognition
+  8.11 Confidence measures
+  8.12 Cross-lingual and multilingual aspects for speech recognition
+  8.13 Structured classification approaches

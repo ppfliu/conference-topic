@@ -1,0 +1,11 @@
+9: LVCSR and Its Applications, Technologies and Systems for New Applications
+  9.1 Multimodal systems
+  9.2 Applications in education and learning (including CALL, assessment of language fluency)
+  9.3 Applications in medical practice (CIS, voice assessment, ...)
+  9.4 Speech science in end-user applications
+  9.5 Systems for LVCSR and its applications
+  9.6 Rich transcription
+  9.7 New types of deep neural network learning for LVCSR and related applications 
+  9.8 Innovative Products and Services Based on Speech Technologies
+  9.9 Sparse, template-based representations
+  9.10 New paradigms (e.g. articulatory models, silent speech interfaces, topic models)

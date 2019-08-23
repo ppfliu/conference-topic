@@ -1,0 +1,9 @@
+11: Spoken Language Processing – Translation, Info Retrieval
+  11.1 Spoken machine translation 
+  11.2 Speech-to-speech translation systems
+  11.3 Transliteration
+  11.4 Voice search
+  11.5 Spoken term detection
+  11.6 Audio indexing
+  11.7 Spoken document retrieval
+  11.8 Systems for mining spoken data, search/retrieval of speech documents

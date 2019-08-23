@@ -1,0 +1,11 @@
+12: Spoken Language Evaluation, Standardization and Resources  
+  12.1 Speech and multimodal resources and annotation
+  12.2 Metadata descriptions of speech, audio, and text resources
+  12.3 Metadata for semantic/content markup
+  12.4 Metadata for linguistic/discourse structure (e.g., disfluencies, sentence/topic boundaries, 
+          speech acts)
+  12.5 Methodologies and tools for language resource construction and annotation
+  12.6 Automatic segmentation and labeling of resources
+  12.7 Multilingual resources
+  12.8 Validation, quality assurance, evaluation of language resources
+  12.9 Evaluation and standardization of speech and language technologies and systems

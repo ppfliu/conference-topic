@@ -1,0 +1,15 @@
+7: Speech Recognition - Signal Processing, Acoustic Modeling, Robustness, and Adaptation
+  7.1 Feature extraction and low-level feature modeling for ASR
+  7.2 Prosodic features and models
+  7.3 Robustness against noise, reverberation
+  7.4 Far field and microphone array speech recognition
+  7.5 Speaker normalization (e.g., VTLN)
+  7.6 Deep neural network
+  7.7 Discriminative acoustic training methods for ASR
+  7.8 Acoustic model adaptation (speaker, bandwidth, emotion, accent)
+  7.9 Speaker adaptation; speaker adapted training methods
+  7.10 Pronunciation variants and modeling for speech recognition
+  7.11 Acoustic confidence measures
+  7.12 Multimodal aspects (e.g., AV speech recognition)
+  7.13 Cross-lingual and multilingual aspects, non native accents
+  7.14 Acoustic modeling for conversational speech (dialog, interaction)

@@ -1,0 +1,11 @@
+5: Speaker and Language Identification
+  5.1 Language identification and verification
+  5.2 Dialect and accent recognition
+  5.3 Speaker characterization, verification and identification
+  5.4 Features for speaker and language recognition
+  5.5 Robustness to variable and degraded channels
+  5.6 Speaker confidence estimation
+  5.7 Extraction of para-linguistic information (gender, stress, mood, age, emotion)
+  5.8 Speaker diarization
+  5.9 Multimodal and multimedia speaker recognition
+  5.10 Higher-level knowledge in speaker and language recognition

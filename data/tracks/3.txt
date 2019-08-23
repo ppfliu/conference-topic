@@ -1,0 +1,11 @@
+3: Analysis of Speech and Audio Signals
+  3.1 Speech analysis and representation
+  3.2 Audio signal analysis and representation
+  3.3 Speech and audio segmentation and classification
+  3.4 Voice activity detection
+  3.5 Pitch and harmonic analysis
+  3.6 Source separation and computational auditory scene analysis
+  3.7 Speaker spatial localization
+  3.8 Voice separation
+  3.9 Music signal processing and understanding
+  3.10 Singing analysis

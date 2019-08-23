@@ -1,0 +1,13 @@
+4: Speech Coding and Enhancement
+  4.1 Speech coding and transmission
+  4.2 Low-bit-rate speech coding
+  4.3 Perceptual audio coding of speech signals
+  4.4 Noise reduction for speech signals
+  4.6 Speech enhancement: single-channel
+  4.7 Speech enhancement: multi-channel
+  4.8 Speech intelligibility
+  4.9 Active noise control
+  4.10 Speech enhancement in hearing aids
+  4.11 Adaptive beamforming for speech enhancement
+  4.12 Dereverberation for speech signals
+  4.13 Echo cancelation for speech signals

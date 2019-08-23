@@ -1,0 +1,15 @@
+6: Speech Synthesis and Spoken Language Generation
+  6.1 Grapheme-to-phoneme conversion for synthesis
+  6.2 Text processing for speech synthesis (text normalization, syntactic and semantic analysis)
+  6.3 Segmental-level and/or concatenative synthesis
+  6.4 Signal processing/statistical model for synthesis
+  6.5 Speech synthesis paradigms and methods, silence speech, articulatory synthesis, 
+        parametric synthesis etc.
+  6.6 Prosody modeling and generation
+  6.7 Expression, emotion and personality generation
+  6.8 Voice conversion and modification, morphing
+  6.9 Concept-to-speech conversion
+  6.10 Cross-lingual and multilingual aspects for synthesis
+  6.11 Avatars and talking faces
+  6.12 Tools and data for speech synthesis
+  6.13 Quality assessment/evaluation metrics in synthesis

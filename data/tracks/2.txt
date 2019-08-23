@@ -1,0 +1,17 @@
+2: Prosody, Phonetics, Phonology, and Para-/Non- Linguistic Information
+  2.1 Articulatory and acoustic cues of prosody 
+  2.2 Linguistic systems
+  2.3 Language descriptions
+  2.4 Phonetics and phonology
+  2.5 Discourse and dialog structures
+  2.6 Phonological processes and models
+  2.9 Laboratory phonology
+  2.10 Phonetic universals
+  2.11 Sound changes
+  2.12 Socio-phonetics  
+  2.13 Phonetics of L1-L2 interaction
+  2.14 Acoustic phonetics
+  2.15 Phonation, voice quality 
+  2.16 Paralinguistic and nonlinguistic cues (other than emotion, expression)
+  2.17 Non-verbal communication
+  2.18 Speaker trait and age recognition
